@@ -1,0 +1,77 @@
+body {
+    background-image: url("./img.html/back25.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+
+header {
+    font-family: Mali, cursive;
+    text-align: center;
+    font-size: 18;
+    color: red;
+    border-radius: 100%;
+}
+
+main {
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    color: aliceblue;
+
+}
+table
+{
+    border: solid;
+}
+th
+{
+    color:rgb(226, 137, 60);
+}
+td
+{
+    color: rgb(213, 64, 19);
+}
+p 
+{
+    text-align: right
+}
+/* .icon-arrow
+{
+    text-align: center;
+    width: 100px;
+    height: 8px;
+    background-color: black;
+    position: relative;
+    top: 50px;
+}
+.icon-arrow::after
+{
+    content: "";
+    display: inline-block;
+    width: 50px;
+    height: 5px;
+    background-color: black;
+    transform: rotate(45deg);
+    position: absolute;
+    right: -6px;
+    bottom: 20px;
+}
+.icon-arrow::before
+{
+    content: "";
+    display: inline-block;
+    width: 50px;
+    height: 5px;
+    background-color: black;
+    transform: rotate(-45deg);
+    position: absolute;
+    right: -6px;
+    bottom: -20px;
+} */
